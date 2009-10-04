@@ -18,10 +18,18 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 SDL_draw is a simple library to draw basic elements, like points,
 lines and circles, on SDL surfaces.
 
+%description -l es.UTF-8
+SDL_draw es una sencilla librería para representar primitivas básicas de
+dibujo, como puntos, rectas y circunferencias, sobre una superficie SDL.
+
 %description -l pl.UTF-8
 SDL_draw jest prostą biblioteką do rysowania podstawowych figur
 geometrycznych takich jak punkty, linie czy koła na powierzchniach
 SDL.
+
+%description -l pt.UTF-8
+SDL_draw é uma biblioteca simples para desenhar elementos básicos, como
+pontos, linhas e círculos, sobre uma superfície SDL.
 
 %package devel
 Summary:	Header files and more to develop SDL_draw applications
