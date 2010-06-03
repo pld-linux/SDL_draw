@@ -2,7 +2,7 @@ Summary:	Library to draw basic shapes on SDL surfaces
 Summary(pl.UTF-8):	Biblioteka do rysowania podstawowych figur na powierzchniach SDL
 Name:		SDL_draw
 Version:	1.2.13
-Release:	1
+Release:	2
 License:	LGPL v2.1+
 Group:		Libraries
 Source0:	http://dl.sourceforge.net/project/sdl-draw/SDL_draw/1.2.13/%{name}-%{version}.tar.gz
